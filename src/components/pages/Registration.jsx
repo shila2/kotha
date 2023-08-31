@@ -8,6 +8,7 @@ const Registration = () => {
         <TextField id="outlined-basic" label="Outlined" variant="outlined" />
         <TextField id="outlined-basic" label="Outlined" variant="outlined" />
         <TextField id="outlined-basic" label="Outlined" variant="outlined" />
+        <p>shila</p>
     </div>
   )
 }
